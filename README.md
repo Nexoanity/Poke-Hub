@@ -4,6 +4,8 @@ Current Releases:
 
 V1
 
+V2
+
 ======================================
 
 V1 Changelogs:
@@ -14,4 +16,14 @@ V1 Changelogs:
 
 - Updated Key System.
 
-V2 Coming soon!
+V2 Changelogs:
+
+- Updated A Few Major Bugs
+
+- Updated Library
+
+- Added 1 Tab(Misc)
+
+- Added AntiAfk
+
+- Removed Key System
